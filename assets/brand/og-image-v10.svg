@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fbfe"/><stop offset=".55" stop-color="#eaf5fb"/><stop offset="1" stop-color="#d9edf4"/></linearGradient>
+ <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#159cc5"/><stop offset="1" stop-color="#38bba8"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".94"/><stop offset="1" stop-color="#fff" stop-opacity=".55"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#6dcae2" stop-opacity=".42"/><stop offset="1" stop-color="#6dcae2" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#678ba1" flood-opacity=".17"/></filter>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="965" cy="170" r="360" fill="url(#aura)"/>
+<g opacity=".26" stroke="#87b6cb" stroke-width="1"><path d="M0 92H1200M0 172H1200M0 252H1200M0 332H1200M0 412H1200M0 492H1200M0 572H1200"/><path d="M80 0V630M160 0V630M240 0V630M320 0V630M400 0V630M480 0V630M560 0V630M640 0V630M720 0V630M800 0V630M880 0V630M960 0V630M1040 0V630M1120 0V630"/></g>
+<rect x="64" y="54" width="244" height="66" rx="22" fill="#fff" fill-opacity=".72" stroke="#fff" stroke-width="2"/>
+<rect x="77" y="66" width="43" height="43" rx="14" fill="url(#brand)"/><path d="M91 77v22h16" stroke="#fff" stroke-width="4.7" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M100 77h7" stroke="#d6f9ff" stroke-width="2.7" stroke-linecap="round"/><circle cx="108" cy="99" r="2.5" fill="#e3fff7"/>
+<text x="136" y="99" font-family="Inter,Arial,sans-serif" font-size="33" font-weight="700" letter-spacing="-1.5" fill="#14344e">Linta</text>
+<text x="65" y="214" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3.2" fill="#167b9c">AI FRONT DESK FOR THE TRADES</text>
+<text x="62" y="302" font-family="Inter,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-3" fill="#14344e">Every call</text>
+<text x="62" y="376" font-family="Inter,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-3" fill="#14344e">answered.</text>
+<text x="64" y="435" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="500" fill="#3b637c">Every job booked.</text>
+<text x="65" y="497" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="400" fill="#526e80">AI receptionist • Missed-call recovery • Booking</text>
+<g filter="url(#shadow)"><rect x="746" y="130" width="384" height="402" rx="35" fill="url(#glass)" stroke="#fff" stroke-width="2"/><rect x="772" y="156" width="332" height="63" rx="19" fill="#fff" stroke="#d7e7ee"/><circle cx="797" cy="188" r="7" fill="#32b7a1"/><text x="817" y="195" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="700" fill="#35556a">AVA  ·  AI RECEPTIONIST</text>
+<g font-family="Inter,Arial,sans-serif"><rect x="772" y="242" width="267" height="58" rx="18" fill="#e4f3f8"/><text x="791" y="265" font-size="14" fill="#557489">Incoming call</text><text x="791" y="286" font-size="17" font-weight="600" fill="#173e57">Answered on the first ring</text>
+<rect x="837" y="315" width="267" height="58" rx="18" fill="#dff5ed"/><text x="856" y="338" font-size="14" fill="#4c8176">Missed call</text><text x="856" y="359" font-size="17" font-weight="600" fill="#1e645e">Text-back sent</text>
+<rect x="772" y="388" width="267" height="58" rx="18" fill="#fff" stroke="#d6e7ed"/><text x="791" y="411" font-size="14" fill="#557489">Next step</text><text x="791" y="432" font-size="17" font-weight="600" fill="#173e57">Job added to calendar</text></g>
+<rect x="772" y="466" width="332" height="38" rx="14" fill="#e5f3f8"/><text x="938" y="490" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#2b728b">HVAC   ·   PLUMBING   ·   RESTORATION</text></g>
+<text x="65" y="589" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="1.5" fill="#7390a0">LINTA  /  EVERY OPPORTUNITY MATTERS</text>
+</svg>
