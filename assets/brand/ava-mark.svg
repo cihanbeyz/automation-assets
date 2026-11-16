@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+<title id="title">Ava assistant mark</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#37d6c0"/><stop offset="1" stop-color="#3986d8"/></linearGradient></defs>
+<rect x="2" y="2" width="60" height="60" rx="19" fill="#0b1d2b"/>
+<rect x="2.75" y="2.75" width="58.5" height="58.5" rx="18.25" fill="none" stroke="url(#g)" stroke-opacity=".55" stroke-width="1.5"/>
+<g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-width="4.5">
+<path d="M15 29v6M24 19v26M33 11v42M42 21v22M51 27v10"/>
+</g><circle cx="33" cy="32" r="3" fill="#e9ffff"/>
+</svg>
